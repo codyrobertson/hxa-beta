@@ -111,8 +111,8 @@
         display: block;
         width: inherit;
         height: inherit;
-        background-image: url(../images/logo/logo-blue.svg);
-        background-size: 50px 40px !important;
+        background-image: url(../images/logo/logo-fill-purple.svg);
+        background-size: 60px 50px !important;
         -webkit-background-size: cover;
         background-size: cover;
         background-repeat: no-repeat;
